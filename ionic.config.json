@@ -1,0 +1,8 @@
+{
+  "name": "covid-tracer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "73c90f5d"
+}
